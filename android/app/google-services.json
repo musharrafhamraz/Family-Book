@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774851522385",
+    "project_id": "familybook-b4846",
+    "storage_bucket": "familybook-b4846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774851522385:android:3960805f7468ecbe9b6d70",
+        "android_client_info": {
+          "package_name": "com.musharraf.familybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774851522385-63fkiqk6dp3r7fckv9u0jvqi4nkg72k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8WbiwowzHDbP65E-2BMeIcY7Effrzb4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774851522385-63fkiqk6dp3r7fckv9u0jvqi4nkg72k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
