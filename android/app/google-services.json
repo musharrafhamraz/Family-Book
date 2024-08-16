@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "774851522385-kpckd9207q2cvrqvieokud36m719041v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musharraf.familybook",
+            "certificate_hash": "c618f0b2ae71bf066c7c669b9eefd416bed46cee"
+          }
+        },
+        {
           "client_id": "774851522385-63fkiqk6dp3r7fckv9u0jvqi4nkg72k0.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,6 +37,13 @@
             {
               "client_id": "774851522385-63fkiqk6dp3r7fckv9u0jvqi4nkg72k0.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "774851522385-d5duo9ghd81nq89540dr3aaloso2f16a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.musharraf.familybook"
+              }
             }
           ]
         }
